@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=parkjunho12&count_private=true&hide=contribs&show_icons=true)
 
-<p align="center">
   ### Tech Stack
+<p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   </a>  
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -23,6 +23,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   </a>  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  </a>  
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+  </a>  
   </a>  
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
   </a>  
