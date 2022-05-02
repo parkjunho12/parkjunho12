@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![stats](https://github-readme-stats.vercel.app/api?username=parkjunho12&count_private=true&hide=contribs&show_icons=true)
 
   ### Tech Stack
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   </a>  
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
