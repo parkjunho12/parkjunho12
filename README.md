@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dongwon&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Back-end%20Developer&descSize=16&descAlign=86&descAlignY=15" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Junho, Park&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Android%20Developer&descSize=16&descAlign=86&descAlignY=15" />
 </div>
 
 ### Tech Stack
