@@ -9,3 +9,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=parkjunho12&count_private=true&hide=contribs&show_icons=true)
+
+<div align="center">
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dongwon&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Back-end%20Developer&descSize=16&descAlign=86&descAlignY=15" />
+</div>
+
+### Tech Stack
+
+<div>  
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=#7F52FF"/>
+</div>
