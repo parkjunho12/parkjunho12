@@ -36,4 +36,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   </a> 
 </p>
-(https://user-images.githubusercontent.com/39142261/167559195-3caed3d4-a971-4a3b-acad-8b44fc5eb35b.jpg)
+![박준호_20220510_124243_1](https://user-images.githubusercontent.com/39142261/167559519-9acb6a58-f09b-4cac-a2f9-ec2b05468a98.jpg)
