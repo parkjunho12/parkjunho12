@@ -1,6 +1,6 @@
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Junho, Park&animation=fadeIn&fontSize=70&fontAlign=77&fontAlignY=42&desc=Android%20Developer&descSize=16&descAlign=86&descAlignY=15" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
+<h2 align="left">"PRO"grammer</h2>
 
 - 👋 Hi, I’m @parkjunho12
 - 👀 I’m interested in Soccer, Coding![박준호_20220510_124243_1]
