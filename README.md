@@ -3,7 +3,7 @@
 <h2 align="left">"PRO"grammer</h2>
 
 - 👋 Hi, I’m @parkjunho12
-- 👀 I’m interested in Boxing, Coding![박준호_20220510_124243_1]
+- 👀 I’m interested in Boxing, Coding! [박준호_20220510_124243_1]
 
 - 🌱 I’m currently learning ML & Cybersecurity in Sheffield University
 - 📫 How to reach me https://www.linkedin.com/in/park-junho-881222164/
