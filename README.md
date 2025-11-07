@@ -2,10 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
 <h2 align="left">"PRO"grammer</h2>
 
-- 👋 Hi, I’m @parkjunho12
-- 👀 I’m interested in Boxing, Coding!
-
-- 🌱 I’m currently learning ML & Cybersecurity in Sheffield University
+- Researching efficient AI models (SNN, TCN, RAG) | MSc AI (Sheffield) | Android Eng → ML Engineer
 - 📫 How to reach me https://www.linkedin.com/in/park-junho-881222164/
 
 <!---
