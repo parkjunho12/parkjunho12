@@ -2,7 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
 <h2 align="left">"PRO"grammer</h2>
 
-- Researching efficient AI models (SNN, TCN, RAG) | MSc AI (Sheffield) | Android Eng → ML Engineer
+I’m an MSc Cybersecurity & AI (Merit) graduate from the University of Sheffield, with five years of experience as an Android Engineer at Hyundai Motor Group (42dot) and DataUniverse.
+
+My current focus is on neuromorphic and energy-efficient Edge-AI robotics — developing hybrid TCN–SNN models for EMG- and IMU-based control on Jetson and Raspberry Pi platforms. I’m building a reproducible open-source kit that integrates ROS2, snnTorch, and TensorRT, enabling real-time inference, latency analysis, and energy-spike trade-off evaluation.
+
+Alongside this, I design LLM/RAG-based cybersecurity knowledge systems that bridge efficient AI research with applied intelligence at the edge.
+
+I’m passionate about bringing efficient, biologically inspired AI models into real-world robotic applications, where energy awareness, responsiveness, and adaptability truly matter.
+
 - 📫 How to reach me https://www.linkedin.com/in/park-junho-881222164/
 
 <!---
