@@ -11,6 +11,7 @@ Alongside this, I design LLM/RAG-based cybersecurity knowledge systems that brid
 I’m passionate about bringing efficient, biologically inspired AI models into real-world robotic applications, where energy awareness, responsiveness, and adaptability truly matter.
 
 - 📫 How to reach me https://www.linkedin.com/in/park-junho-881222164/
+- 📫 Portfolio: https://www.junho.uk
 
 <!---
 parkjunho12/parkjunho12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
