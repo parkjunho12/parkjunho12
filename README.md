@@ -20,11 +20,23 @@ You can click the Preview link to take a look at your changes.
 
   ### Tech Stack
 <p>
+   <img src="https://img.shields.io/badge/snnTorch-ff006e?style=flat-square&logo=snp-torch&logoColor=white"/>
+  </a> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  </a> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  </a> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  </a> 
+  <img src="https://img.shields.io/badge/ONNX-000000?style=flat-square&logo=onnx&logoColor=white"/>
+  </a> 
+   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+  </a> 
+   <img src="https://img.shields.io/badge/ROS2-0F50A4?style=flat-square&logo=ros&logoColor=white"/>
+  </a> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   </a>  
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-  </a>  
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   </a>  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   </a>  
